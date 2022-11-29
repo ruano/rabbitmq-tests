@@ -1,1 +1,1 @@
-# rabbitmq-tests
+# rabbitmq.publisher-consumer
